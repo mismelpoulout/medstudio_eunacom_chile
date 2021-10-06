@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-background: #e1e1e1;
+  --text-color: #121212;
+  --secundary-background: #fff;
+  --theme: #2196f3;
+  --animation-dur: 0.3s;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+::-webkit-scrollbar-track {
+  padding: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--theme);
+  border-radius: 9px;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background: var(--primary-background);
+  color: var(--text-color);
+  font-family: "montserrat", sans-serif;
+}
+
+main {
+  margin-top: 5em;
+  margin-bottom: 3em;
+}
+
+.txt-center {
+  text-align: center;
+  padding: 6px;
+}
+
+.btn {
+  appearance: none;
+  outline: none;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: var(--theme);
+  color: #fff;
+  font-size: 1.3em;
+  width: 200px;
+  margin: auto;
+}
+.postView{
+  padding: 1.1em;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: auto;
+}
+#vuukle-emote{
+  width: 12rem;
+  height: 5em;
+  padding: 1.1em;
+  margin-bottom: 3em;
+}
+.btn:hover {
+  cursor: pointer;
+}
+
+.pretty-txt {
+  padding: 1.1em;
+  line-height: 1.8;
+}

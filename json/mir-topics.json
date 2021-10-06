@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Cardiología",
+    "icon": "cardiograma",
+    "PDFURL": "../PDFs/cardiologia.pdf"
+  },
+  {
+    "name":"Dermatología",
+    "icon":"dermatologia",
+    "PDFURL":"../PDFs/dermatologia.pdf"
+  },
+  {
+    "name": "Hematología",
+    "icon": "hematologia",
+    "PDFURL": "../PDFs/miscelanea.pdf"
+  },
+  {
+    "name":"Digestivo",
+    "icon":"digestivo",
+    "PDFURL":"../PDFs/digestivo.pdf"
+  },
+  {
+    "name":"Endocrino",
+    "icon":"endocrino",
+    "PDFURL":"../PDFs/endoctrino.pdf"
+  },
+  {
+    "name": "Ginecología",
+    "icon": "ginecologia",
+    "PDFURL": "../PDFs/ginecologia.pdf"
+  },{
+    "name": "Nefrología",
+    "icon": "riñon",
+    "PDFURL": "../PDFs/cardiologia.pdf"
+  },
+  {
+    "name": "Infecciosas",
+    "icon": "infecciosas",
+    "PDFURL": "../PDFs/miscelanea.pdf"
+  },
+  {
+    "name": "Imágenes",
+    "icon": "imagenes",
+    "PDFURL": "../PDFs/imagenes.pdf"
+  },
+  {
+    "name":"Hematología",
+    "icon":"hematologia",
+    "PDFURL":"../PDFs/hematologia.pdf"
+  },
+  {
+    "name":"Traumatología",
+    "icon":"traumatologia",
+    "PDFURL":"../PDFs/traumatologia.pdf"
+  },
+  {
+    "name":"Cirugía",
+    "icon":"cirugia",
+    "PDFURL":"../PDFs/cirugia.pdf"
+  },
+  {
+    "name":"Orl",
+    "icon":"orl",
+    "PDFURL":"../PDFs/orl.pdf"
+  },
+  {
+    "name":"Neumología",
+    "icon":"neumologia",
+    "PDFURL":"../PDFs/neumologia.pdf"
+  },
+  {
+    "name":"Inmunología",
+    "icon":"inmunologia",
+    "PDFURL":"../PDFs/inmunologia.pdf"
+  },
+  {
+    "name":"Miscelanea",
+    "icon":"miscelanea",
+    "PDFURL":"../PDFs/miscelanea.pdf"
+  },
+  {
+    "name":"Neurología",
+    "icon":"neurologia",
+    "PDFURL":"../PDFs/neurologia.pdf"
+  },
+  {
+    "name":"Oftalmología",
+    "icon":"oftalmologia",
+    "PDFURL":"../PDFs/oftalmologia.pdf"
+  },
+  {
+    "name":"Pediatría",
+    "icon":"pediatria",
+    "PDFURL":"../PDFs/pediatria.pdf"
+  },
+  {
+    "name":"Psiquiatría",
+    "icon":"psiquiatria",
+    "PDFURL":"../PDFs/psiquiatria.pdf"
+  },
+  {
+    "name":"Reuma",
+    "icon":"Reuma",
+    "PDFURL":"../PDFs/reuma.pdf"
+  },
+  {
+    "name":"Urología",
+    "icon":"urologia",
+    "PDFURL":"../PDFs/urologia.pdf"
+  },
+  {
+    "name":"Epidemiología",
+    "icon":"epidemiologia",
+    "PDFURL":"../PDFs/epidemiologia.pdf"
+  },
+  {
+    "name":"Libro gordo",
+    "icon":"libro_gordo",
+    "PDFURL":"../PDFs/libro_gordo.pdf"
+  }
+]
+
+
+
+
+

@@ -9,13 +9,19 @@ header {
   left: 0;
   z-index: 1;
 }
-.login-box{
-  position: relative;
-  right: 0;
-  bottom: 0;
-  margin-right: 3em;
-  background-color:transparent;
-}
+.reg-button{
+    text-decoration:none;
+    
+    padding-left:20px;
+    padding-right:20px;
+    background-color:transparent;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius:25px;
+    margin-right: 0.5em;
+    }
+
 
 .appName {
   font-family: "cursive-insta";
